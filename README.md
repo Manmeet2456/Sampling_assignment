@@ -32,12 +32,8 @@ KNN
 Result Summary:
 
 Final Accuracy Table:
-    Sampling1  Sampling2  Sampling3  Sampling4  Sampling5
-M1      94.19      87.76      87.76      87.36      86.05
-M2      94.19      93.88      93.88      88.51      95.35
-M3     100.00      97.96      97.96      97.70      97.67
-M4      66.28      51.02      52.04      60.92      59.30
-M5      77.91      74.49      68.37      80.46      69.77
+<img width="560" height="163" alt="image" src="https://github.com/user-attachments/assets/b93a43a3-58af-457d-b743-33d7ad33e87a" />
+
 
 Conclusion:
 Write which sampling technique gave highest accuracy for which model based on your result.
