@@ -1,13 +1,13 @@
 # Sampling_assignment
-Assignment: Sampling Techniques on Imbalanced Dataset
+**#Assignment:** Sampling Techniques on Imbalanced Dataset
 
-Objective:
+**#Objective:**
 To analyze how different sampling techniques affect performance of machine learning models on an imbalanced dataset.
 
-Dataset Used:
+**#Dataset Used:**
 Creditcard_data.csv
 
-Steps Performed:
+**#Steps Performed:**
 Loaded dataset
 Balanced dataset using SMOTE
 Created 5 samples
@@ -15,26 +15,26 @@ Applied 5 sampling techniques
 Trained 5 ML models
 Compared accuracy
 
-Sampling Techniques Used:
+**#Sampling Techniques Used:**
 Random Under Sampling
 Random Over Sampling
 SMOTE
 Tomek Links
 NearMiss
 
-Models Used:
+**#Models Used:**
 Logistic Regression
 Decision Tree
 Random Forest
 SVM
 KNN
 
-Result Summary:
+**#Result Summary:**
 
 <img width="560" height="163" alt="image" src="https://github.com/user-attachments/assets/b93a43a3-58af-457d-b743-33d7ad33e87a" />
 
 
-Conclusion:
+**#Conclusion:**
 The objective of this assignment was to analyze the effect of different sampling techniques on machine learning models when applied to an imbalanced dataset. From the experimental results, it is clear that sampling methods significantly influence model performance.
 
 Among the five machine learning models tested, Model M3 (Random Forest Classifier) delivered the best performance, achieving 100% accuracy with Sampling1, and maintaining consistently high accuracy across all sampling techniques. This indicates that Random Forest is highly robust and well-suited for handling balanced as well as imbalanced datasets.
